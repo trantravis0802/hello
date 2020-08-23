@@ -2,7 +2,7 @@ int main(int argc, char **argv) {
 
   printf("Travis Tran\n");
   //This is my name
-  printf("Computer Science\n")
+  printf("Computer Science\n");
   //This is my major
 
   printf("Ean France Coleman\n");
